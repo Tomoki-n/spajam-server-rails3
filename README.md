@@ -1,0 +1,1 @@
+# spajam-server-rails3
